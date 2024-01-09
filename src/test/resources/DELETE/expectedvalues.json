@@ -1,0 +1,11 @@
+[
+  {
+    "postEndpoint": "/objects",
+    "deleteEndpoint": "/objects"
+  },
+  {
+    "postEndpoint": "/objects",
+    "deleteEndpoint": "/objects"
+  }
+
+]

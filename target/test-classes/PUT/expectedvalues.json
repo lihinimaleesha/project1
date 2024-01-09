@@ -1,0 +1,6 @@
+{
+  "postEndpointPath": "/objects",
+  "putEndpointPath": "/objects",
+  "expectedName": "Updated Object",
+  "expectedDescription": "Intel Core i9"
+}

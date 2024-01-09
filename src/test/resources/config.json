@@ -1,0 +1,5 @@
+{
+  "baseURI": "https://api.restful-api.dev",
+  "authToken": "your_auth_token_here",
+  "otherConfigKey": "other_config_value"
+}
